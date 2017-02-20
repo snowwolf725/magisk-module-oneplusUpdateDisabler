@@ -1,6 +1,6 @@
-id=oneplus3UpdateDisabler
-name=OnePlus 3/3T Update Disabler
+id=oneplus3UpdateEnabler
+name=OnePlus 3/3T Update Enabler
 version=v1
 versionCode=1
 author=snowwolf725
-description=Modify hosts to disable oneplus update
+description=Modify hosts to enable oneplus update
