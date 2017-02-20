@@ -1,6 +1,6 @@
-id=template
-name=Template Module
+id=oneplus3UpdateDisabler
+name=OnePlus 3/3T Update Disabler
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=snowwolf725
+description=Modify hosts to disable oneplus update
